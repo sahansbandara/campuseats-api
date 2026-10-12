@@ -1,0 +1,9 @@
+
+# Build files
+bin/
+obj/
+.vs/
+# Local configuration
+.env
+.env.*
+appsettings.Development.json
